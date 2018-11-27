@@ -9,6 +9,7 @@ using LedCSharp;
 using System.Threading;
 
 //Sanford's Midi Toolkit here which is required for this program to work can be found here: https://www.nuget.org/packages/Sanford.Multimedia.Midi/
+//Or you can directly install it by running the following Nuget command: PM> Install-Package Sanford.Multimedia.Midi -Version 6.6.0
 //Requires a Logitech Per Key RGB capable keyboard (e.g. G910, G810);
 
 namespace LogitechMidiLED
